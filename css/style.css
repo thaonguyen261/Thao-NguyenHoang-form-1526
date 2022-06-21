@@ -31,9 +31,7 @@ p{
 .wrapper{
     width: 25rem;
     margin: 0 auto;
-    /* display: flex;
-  justify-content: center;
-  align-items: center; */
+
 }
 
 /* Form */
@@ -42,7 +40,7 @@ form{
     /* margin: 0 auto; */
     margin: 1rem;
     position: relative;
-    margin-top: 5rem;
+    margin-top: 8rem;
     background-color: #f5f5f5;
     padding: 5rem 2rem 2rem 2rem;
     border: 1px solid #DDD;
